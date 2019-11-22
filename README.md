@@ -1,4 +1,4 @@
-# Homework_4_panda
+# School budget Homework_4_panda
 Repo for homework 4
 # Unit 4 | Assignment - Pandas, Pandas, Pandas
 
@@ -182,6 +182,4 @@ As final considerations:
 
 * As always, feel encouraged to work in groups and get help from your TAs and Instructor. Just remember, true success comes from mastery and _not_ a completed homework assignment. So challenge yourself to truly succeed!
 
-## Copyright
 
-Data Boot Camp © 2018. All Rights Reserved.
